@@ -1,3 +1,25 @@
+/*
+Theme Name: Custom
+Description: Mô tả về theme
+Author: Tên tác giả
+Version: 1.0
+*/
+
+/* Các quy tắc CSS của bạn */
+
+
 a {
     text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
 }

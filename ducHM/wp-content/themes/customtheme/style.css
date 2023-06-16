@@ -1,7 +1,7 @@
 /*
 Theme Name: Custom
-Description: Mô tả về theme
-Author: Tên tác giả
+Description: custom something
+Author: haduc25
 Version: 1.0
 */
 
@@ -21,5 +21,13 @@ a:hover {
 .box{
     height: 100px;
     width: 100px;
+    border: 1px solid #000;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.container{
     border: 1px solid #000;
 }
